@@ -1,0 +1,23 @@
+[
+    {
+        "school": "Ivalo Upper Secondary School, Ivalo",
+        "years": "2000-2003",
+        "studies": "Finnish Matriculation Examination",
+        "img": "yolakki.jpg"
+    
+    },
+    {
+        "school": "Kainuun ammattiopisto, Suomussalmi",
+        "years": "2003-2006",
+        "studies": "Vocational Qualification in Vehicle Technology",
+        "img": "carMechanic.jpg"
+    
+    },
+    {
+        "school": "Häme University of Applied Sciences, Hämeenlinna",
+        "years": "2022-",
+        "studies": "Business Information Technology",
+        "img": "itStudies.jpg"
+    
+    }
+]

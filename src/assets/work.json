@@ -1,0 +1,55 @@
+[
+    {
+      "company": "Kerttuoja Camping",
+      "city": "Ivalo",
+      "role": "Camping Area Worker",
+      "time": "During summers, from may to august, years 1997-2002"  ,
+      "description": "Taking care of customer service, cleaning, outdoor duties and bookkeeping.",
+      "img": "camping.jpg"
+    },
+    {
+        "company": "Hotel Ivalo",
+        "city": "Ivalo",
+        "role": "Karaoke Hostess",
+        "time": "During studies in 2002-2003, at evenings and weekends" ,
+        "description": "Mostly I hosted karaoke for french travellers, but also for local people and other tourists.",
+        "img": "karaoke.jpg"
+
+      },
+      {
+        "company": "Starburger",
+        "city": "Suomussalmi",
+        "role": "Fastfood Cook",
+        "time": "Summers and weekends during studies in 2003-2006" ,
+        "description": "Customer service and preparing meals.",
+        "img": "hamburger.jpg"
+
+      },
+      {
+        "company": "Ämmän Leipä",
+        "city": "Suomussalmi",
+        "role": "Packer, Baker, Seller",
+        "time": "Summer worker and also rush-helper around the year, mostly in 2001-2004" ,
+        "description": "Packing bakery, helping on linebaking and seller/customerservice on movable market icecream/coffee/pancake place.",
+        "img": "bakery.jpg"
+
+      },
+      {
+        "company": "Kainuun Kuutamokeikat",
+        "city": "Suomussalmi",
+        "role": "Rental Worker",
+        "time": "5/2006-9/2006" ,
+        "description": "Rental worker for Kemet Electronics as an operator for testing.",
+        "img": "kuutamokeikat.png"
+
+      },
+      {
+        "company": "Kemet Electronics, a Yageo Company",
+        "city": "Suomussalmi",
+        "role": "Preventive Maintainer, Maintenance Man, Attending Maintenance Man",
+        "time": "09/2006-ongoing" ,
+        "description": "Maintaining and repairing machinery, taking care of spareparts within attending area and taking part in machine renewall.",
+        "img": "kemet.png"
+
+      }
+]
